@@ -1,0 +1,2 @@
+model,timing_best_model,mean_timing_all_hpo_configs
+PYGAM,10.956±0.105,10.956±0.105

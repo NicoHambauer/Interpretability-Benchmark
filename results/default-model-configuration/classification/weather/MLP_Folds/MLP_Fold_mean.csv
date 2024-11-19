@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,ROC_AUC
+No rain tomorrow,0.876,0.945,0.909,22063.200,
+Rain tomorrow,0.740,0.538,0.623,6375.400,
+accuracy,0.854,0.854,0.854,0.854,0.885
+macro avg,0.808,0.742,0.766,28438.600,
+weighted avg,0.846,0.854,0.845,28438.600,

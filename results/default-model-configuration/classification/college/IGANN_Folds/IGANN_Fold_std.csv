@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,ROC_AUC
+College,0.041,0.029,0.015,0.000,
+No College,0.022,0.052,0.022,0.000,
+accuracy,0.018,0.018,0.018,0.018,0.008
+macro avg,0.016,0.018,0.018,0.000,
+weighted avg,0.016,0.018,0.018,0.000,
